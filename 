@@ -1,0 +1,42 @@
+[33mcommit 8de98f5e2c33e9566667057d1126cfddba6ecee5[m[33m ([m[1;36mHEAD -> [m[1;32mgithub[m[33m, [m[1;33mtag: v14.1.0[m[33m)[m
+Merge: 308727b 11359f1
+Author: yjy6348 <hello.git.yjy6348@naver.com>
+Date:   Wed Nov 29 09:47:03 2023 +0900
+
+    Merge branch 'main' into github
+
+[33mcommit 11359f1ef0b4d5985e3a86d540266a538f40227d[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m, [m[1;32mhotfix[m[33m)[m
+Author: yjy6348 <hello.git.yjy6348@naver.com>
+Date:   Wed Nov 29 09:43:05 2023 +0900
+
+    14주차-cli_exe 실습
+
+[33mcommit 308727b94a807210d622dcc1ec9a3d5dccbb6c00[m
+Author: yjy6348 <hello.git.yjy6348@naver.com>
+Date:   Wed Nov 29 09:41:07 2023 +0900
+
+    14주차-새로운 깃허브 기능1 추가
+
+[33mcommit 398d6abb923d1adeee5e0c3d58a46880a572ad63[m
+Author: yjy6348 <hello.git.yjy6348@naver.com>
+Date:   Wed Nov 29 09:32:20 2023 +0900
+
+    14주차-두번째 커밋
+
+[33mcommit 0cc245d411491d092386dcb8f1e36d3abe88cb4c[m
+Author: yjy6348 <hello.git.yjy6348@naver.com>
+Date:   Wed Nov 29 09:30:33 2023 +0900
+
+    14주차-첫번째 커밋
+
+[33mcommit 5387a3866ba451576bebf9ce3f77c2bc79b798d8[m
+Author: yjy6348 <hello.git.yjy6348@naver.com>
+Date:   Wed Nov 29 09:26:06 2023 +0900
+
+    14주차-두번째 커밋
+
+[33mcommit a8c3ab316bc2f31538e9c3ddf512db733c550937[m
+Author: Cat Hanbit <hello.git.yjy6348@naver.com>
+Date:   Wed Nov 29 09:18:19 2023 +0900
+
+    14주차-첫번째 커밋
